@@ -337,7 +337,7 @@ Debug
 *.user
 obj
 bin
-#*.exe
+*.exe
 
 
 ### MonoDevelop ###
