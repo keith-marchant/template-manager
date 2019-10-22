@@ -1,0 +1,5 @@
+group Main
+    storage none
+    source https://api.nuget.org/v3/index.json
+    nuget FSharp.Core
+    github giraffe-fsharp/Giraffe src/Giraffe/GiraffeViewEngine.fs

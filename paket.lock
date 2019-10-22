@@ -1,0 +1,7 @@
+STORAGE: NONE
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.7)
+GITHUB
+  remote: giraffe-fsharp/Giraffe
+    src/Giraffe/GiraffeViewEngine.fs (e1693b20fdbe6e0f98705a5f50a107dcbe5b56e7)
